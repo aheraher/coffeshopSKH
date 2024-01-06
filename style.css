@@ -133,24 +133,24 @@ html {
   width: 10rem;
   height: 10rem;
   border-radius: 50%;
-  background-color: royalblue;
+  /* background-color: royalblue; */
   background-position: center;
   background-size: cover;
 }
 
 .middle .circle:nth-child(2) {
   margin: 2rem 0;
-  background-image: url(/Images/coffee\ beans.jpg);
+  background-image: url(Images/coffee_beans.jpg);
   background-size: 250%;
 }
 
 .middle .circle:nth-child(1) {
-  background-image: url(/Images/coffee\ powder.jpg);
+  background-image: url(Images/coffee_powder.jpg);
   background-size: 350%;
 }
 
 .middle .circle:nth-child(3) {
-  background-image: url(/Images/leaves.jpg);
+  background-image: url(Images/leaves.jpg);
   background-size: 350%;
 }
 
